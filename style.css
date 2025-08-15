@@ -1,14 +1,14 @@
 body {
-  background-color: #00008b; /* A classic dark blue background */
-  background-image: url('94750ea4a5a9998898115f5e227e3cbe.gif'); /* An animated background is a must */
+  background-color: #00008b; 
+  background-image: url('94750ea4a5a9998898115f5e227e3cbe.gif'); 
   color: #c0c0c0; /* Light gray text for contrast */
-  font-family: 'Comic Sans MS', sans-serif; /* The quintessential retro font */
+  font-family: 'Comic Sans MS', sans-serif; 
   text-align: center;
   margin: 20px;
 }
 
 h1 {
-  color: #ff00ff; /* Bright magenta for headings */
+  color: #ff00ff; 
   text-shadow: 2px 2px #000000;
   border: 3px dashed #ffff00;
   padding: 10px;
